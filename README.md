@@ -1,4 +1,4 @@
-# Hi, I'm MIkE! 👋
+# Hej, I'm MIkE! 👋
 
 I am a functional programming and F# enthusiast and professional.
 
