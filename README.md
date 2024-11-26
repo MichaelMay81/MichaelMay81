@@ -15,9 +15,6 @@ I am a functional programming and F# enthusiast and professional.
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,linux,vscode,rider,docker,azure)](https://skillicons.dev)
 
-Thanks for stopping by!
-
-
 
 <!--
 **MichaelMay81/MichaelMay81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
