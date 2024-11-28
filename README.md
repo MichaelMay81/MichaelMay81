@@ -2,8 +2,6 @@
 
 I am a functional programming and F# enthusiast and professional.
 
-![MIkE's Stats](https://github-readme-stats.vercel.app/api?username=MichaelMay81&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - Started programming in the mid 90s with following education as computer engineer, a bachelor in Software & Information Engineering and finally a master in Visual Computing at the technical university in Vienna, Austria.
@@ -15,6 +13,8 @@ I am a functional programming and F# enthusiast and professional.
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,linux,vscode,rider,docker,azure)](https://skillicons.dev)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMay81&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MichaelMay81/MichaelMay81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
